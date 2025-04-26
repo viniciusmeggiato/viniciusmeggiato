@@ -6,7 +6,7 @@ Cursando o primeiro semestre de **Engenharia de Software** na Unicesumar.
 
 - 💻 Estudando Java 
 - ⚙️ Interesse em backend, APIs e automação
-- - 🌱 Cursando o primeiro semestre de Engenharia de Software
+- 🌱 Cursando o primeiro semestre de Engenharia de Software
 
 ## Ferramentas & Tecnologias
 
